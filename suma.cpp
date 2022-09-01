@@ -1,11 +1,13 @@
 #include<iostream>
 using namespace std;
 int main()
-{
-  cout<<endl<<endl;
-  cout<<"hola mundo soy Maria Jose;";
-  cout<<endl<<endl;
 
-  return (0);
+{
+  float A,B,C;
+  cin>>A>>B;
+  C=A+B;
+  cout<<C;
+
+  return 0;
 }
 
